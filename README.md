@@ -1,10 +1,10 @@
 # strfind
 
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/version)](https://packagist.org/packages/mikechip/strfind)
-[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/mikechip/strfind)
-[![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/mikechip/strfind)
-[![License](https://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/mikechip/strfind)
-[![composer.lock available](https://poser.pugx.org/phpunit/phpunit/composerlock)](https://packagist.org/packages/mikechip/strfind)
+[![Latest Stable Version](https://poser.pugx.org/mikechip/strfind/version)](https://packagist.org/packages/mikechip/strfind)
+[![Total Downloads](https://poser.pugx.org/mikechip/strfind/downloads)](https://packagist.org/packages/mikechip/strfind)
+[![Latest Unstable Version](https://poser.pugx.org/mikechip/strfind/v/unstable)](//packagist.org/packages/mikechip/strfind)
+[![License](https://poser.pugx.org/mikechip/strfind/license)](https://packagist.org/packages/mikechip/strfind)
+[![composer.lock available](https://poser.pugx.org/mikechip/strfind/composerlock)](https://packagist.org/packages/mikechip/strfind)
 
 Библиотека предназначена для поиска подстроки в файлах
 и возвращения её позиции. 
