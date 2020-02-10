@@ -13,7 +13,7 @@
     );
 
     // Устанавливаем источник поиска (в нашем случае локальный файл)
-    $finder->setLocalFile(__DIR__ . '/example-file.txt');
+    $finder->setLocalFile(__DIR__ . '/sample-files/example-file.txt');
 
     // Получаем результат
     $result = $finder->find( $string_to_find );
