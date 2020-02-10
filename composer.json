@@ -12,6 +12,11 @@
     "autoload": {
         "psr-4": { "Mike4ip\\Strfind\\": "src/" }
     },
+    "scripts": {
+        "post-install-cmd": [
+            "vendor/bin/phpunit --bootstrap vendor/autoload.php --testdox tests"
+        ]
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
@@ -19,5 +24,8 @@
         "ext-mbstring": "^7.3",
         "ext-yaml": "*",
         "ext-fileinfo": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
     }
 }
