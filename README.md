@@ -5,6 +5,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/mikechip/strfind/v/unstable)](//packagist.org/packages/mikechip/strfind)
 [![License](https://poser.pugx.org/mikechip/strfind/license)](https://packagist.org/packages/mikechip/strfind)
 [![composer.lock available](https://poser.pugx.org/mikechip/strfind/composerlock)](https://packagist.org/packages/mikechip/strfind)
+[![Coverage Status](https://coveralls.io/repos/github/mikechip/strfind/badge.svg?branch=master)](https://coveralls.io/github/mikechip/strfind?branch=master)
 
 Библиотека предназначена для поиска подстроки в файлах
 и возвращения её позиции. 
